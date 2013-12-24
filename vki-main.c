@@ -1,4 +1,4 @@
-//mustafa ra��it kocaba��
+//mustafa rasit kocabas
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
